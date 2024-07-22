@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 [![wakatime](https://wakatime.com/badge/user/018d38d3-c476-4688-a36c-6b11a0dade5a.svg)](https://wakatime.com/@018d38d3-c476-4688-a36c-6b11a0dade5a)
 <!--
 **Dan-Popescu/Dan-Popescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
